@@ -5,3 +5,6 @@
 <p>Current time: <%= new java.util.Date() %></p>
 </body>
 </html>
+<h2>Login Feature</h2>
+<form>Username: <input type='text'></form>
+<h2>Different Main Branch Content</h2>
