@@ -1,0 +1,6 @@
+2023-11-15T10:01:13Z 198.51.100.22 user-101 GET /api/orders 401 120 "Mozilla/5.0 (Windows NT 10.0)"
+2023-11-15T10:01:20Z 192.0.2.15 anonymous POST /login 403 100 "Firefox/117.0"
+2023-11-15T10:01:23Z 203.0.113.88 user-042 GET /admin/dashboard 403 150 "Chrome/118.0.0.0"
+2023-11-15T10:01:29Z 198.51.100.22 user-101 GET /old-resource 404 210 "Mozilla/5.0 (Windows NT 10.0)"
+2023-11-15T10:01:38Z 192.0.2.15 anonymous GET /contact 404 200 "Firefox/117.0"
+2023-11-15T10:01:53Z 192.0.2.15 anonymous GET /undefined.page 404 215 "Firefox/117.0"
