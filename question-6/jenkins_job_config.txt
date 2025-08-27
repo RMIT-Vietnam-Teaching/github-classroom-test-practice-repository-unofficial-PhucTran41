@@ -1,0 +1,6 @@
+Jenkins Job: my_project_CI
+Repository: https://github.com/RMIT-Vietnam-Teaching/github-classroom-test-practice-repository-unofficial-PhucTran41.git
+Branch: develop
+Root POM: question-4/pom.xml
+Goals: clean install
+Webhook URL: http://3.81.33.136:8080/github-webhook/
