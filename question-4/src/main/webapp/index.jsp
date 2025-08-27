@@ -1,1 +1,1 @@
-Broken application - testing failure scenario
+This is broken content without Welcome message
